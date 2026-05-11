@@ -67,7 +67,7 @@
   {
     "name": "Photon",
     "pkg_path": "gno.land/r/gnoswap/test_token/test_photon",
-    "symbol": "QUX",
+    "symbol": "PHOTON",
     "decimals": 6,
     "chain_id": "test13",
     "description": "This Photon is a GRC20 token issued solely for testing purposes. This token has no actual value.",
@@ -93,7 +93,7 @@
   {
     "name": "Cosmos",
     "pkg_path": "gno.land/r/gnoswap/test_token/test_atom",
-    "symbol": "OBL",
+    "symbol": "ATOM",
     "decimals": 6,
     "chain_id": "test13",
     "description": "This Cosomos is a GRC20 token issued solely for testing purposes. This token has no actual value.",
