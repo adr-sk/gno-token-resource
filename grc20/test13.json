@@ -42,7 +42,7 @@
     "name": "Ethereum",
     "pkg_path": "gno.land/r/gnoswap/test_token/test_eth",
     "symbol": "ETH",
-    "decimals": 18,
+    "decimals": 6,
     "chain_id": "test13",
     "description": "This is a GRC20 token issued on test13 solely for testing purposes. This token has and will have no actual value. There is no guarantee that this token will be available in the mainnet",
     "website_url": "https://beta.gnoswap.io",
@@ -131,7 +131,7 @@
   },
   {
     "name": "Usd Coin",
-    "pkg_path": "gno.land/r/gnoswap/test_token/usdc",
+    "pkg_path": "gno.land/r/gnoswap/test_token/test_usdc",
     "symbol": "USDC",
     "decimals": 6,
     "chain_id": "test13",
@@ -144,7 +144,7 @@
   },
   {
     "name": "Tether",
-    "pkg_path": "gno.land/r/gnoswap/test_token/usdt",
+    "pkg_path": "gno.land/r/gnoswap/test_token/test_usdt",
     "symbol": "USDT",
     "decimals": 6,
     "chain_id": "test13",
@@ -157,7 +157,7 @@
   },
   {
     "name": "Dai",
-    "pkg_path": "gno.land/r/gnoswap/test_token/dai",
+    "pkg_path": "gno.land/r/gnoswap/test_token/test_dai",
     "symbol": "DAI",
     "decimals": 6,
     "chain_id": "test13",
