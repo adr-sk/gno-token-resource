@@ -107,7 +107,7 @@
     "name": "Solana",
     "pkg_path": "gno.land/r/gnoswap/test_token/test_sol",
     "symbol": "SOL",
-    "decimals": 6,
+    "decimals": 9,
     "chain_id": "test13",
     "description": "This is a GRC20 token issued on test13 for testing purposes only. This token has no actual value and never will. There is no guarantee that this token will be available on mainnet.",
     "website_url": "https://beta.gnoswap.io",
